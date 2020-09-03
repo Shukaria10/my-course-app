@@ -1,0 +1,31 @@
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 300px;
+    padding-bottom: 5px;
+    border: 1px solid yellow;
+    width: 500px;
+    background-color:goldenrod;
+    font-size:15px;
+    font-family: roboto,sans-serif;
+    justify-content: center;
+
+}
+.product-name{
+    color: black;
+    font-weight: 400;
+    justify-content: center;
+}
+.main-button{
+    background-color: lightgreen;
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+
+}
